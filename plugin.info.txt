@@ -1,0 +1,7 @@
+base   wordconverter
+author Markus Nix
+email  Markus.Nix@polizei.bund.de
+date   2025-01-01
+name   ConWord
+desc   Converts clipboard content from Word to DokuWiki syntax
+url
